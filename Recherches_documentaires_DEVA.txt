@@ -1,0 +1,9 @@
+
+https://stackoverflow.com/questions/10162152/how-to-work-with-string-fields-in-a-c-struct
+git add 		(nomdefichier) // selectionne les fichiers
+git commit -m 		(sauvegarde)   // sauvegarde les fichiers
+git log			(affiche par ordre chronologique les commits)
+git branch -M "nom" 	(renomme la branche principale)
+git remote add origin https://github.com/AElolz-FH/DEVA-Projet.git
+git push --all https://github.com/AElolz-FH/DEVA-Projet.git	(Exporter le projet sur le github)
+git pull origin master --allow-unrelated-histories		(Récupérer le projet sur le github)
