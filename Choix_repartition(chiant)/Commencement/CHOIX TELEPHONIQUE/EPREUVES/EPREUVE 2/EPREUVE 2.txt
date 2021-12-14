@@ -1,18 +1,18 @@
-**LE LENDEMAIN MATIN**
-**Mr.X Appelle George**
-	Mr.X : Bonjour George, êtes-vous prêt pour la seconde épreuve ?
-	George : Je vous écoute Monsieur.
-	Mr.X : Très bien ,je vois que vous n’avez pas perdu votre esprit jouasse.
-	Mr.X : Je vais commencer par énoncer les règles de l’épreuve.
-	Mr.X : Vous allez devoir choisir entre deux possibilités. Première possibilité, vous allez devoir ôter la vie de Caramel votre toutou chéri. Deuxième possibilité, vous allez devoir couper un doigt à votre femme.
-	George : Vous êtes sérieux espèce de timbré ?
-	Mr.X : Très sérieux, vous avez 10 minutes pour faire un choix.
-	George : Très bien je reviens.
-**George part voir Hélène pour en discuter**
-	George : Chérie, on a un problème.
-	Hélène : Qu’est ce qu’il y a mon amour ?
-	George : Ce taré veut que je décide entre te couper un doigt et tuer Caramel...
-	Hélène : Coupe-moi le doigt George ! C’est inconcevable de tuer Caramel, je n’y pense pas une seule seconde !
-	George : Je vais faire un choix, laisse-moi réfléchir.
-	Hélène : S’il te plaît, ne tue pas le chien...
-**CHOIX 1 TUER CARAMEL, 2 COUPER LE DOIGT D’HELENE**
+LE LENDEMAIN MATIN
+Mr.X Appelle George
+	Mr.X : Bonjour George, etes-vous pret pour la seconde epreuve ?
+	George : Je vous ecoute Monsieur.
+	Mr.X : Tres bien ,je vois que vous nâ€™avez pas perdu votre esprit jouasse.
+	Mr.X : Je vais commencer par enoncer les regles de lâ€™epreuve.
+	Mr.X : Vous allez devoir choisir entre deux possibilites. PremiÃ¨re possibilite, vous allez devoir oter la vie de Caramel votre toutou cheri. Deuxieme possibilite, vous allez devoir couper un doigt a votre femme.
+	George : Vous etes serieux espece de timbre ?
+	Mr.X : Tres serieux, vous avez 10 minutes pour faire un choix.
+	George : Tres bien je reviens.
+George part voir HÃ©lÃ¨ne pour en discuter
+	George : Cherie, on a un problÃ¨me.
+	Helene : Quâ€™est ce quâ€™il y a mon amour ?
+	George : Ce tare veut que je decide entre te couper un doigt et tuer Caramel...
+	Helene : Coupe-moi le doigt George ! Câ€™est inconcevable de tuer Caramel, je nâ€™y pense pas une seule seconde !
+	George : Je vais faire un choix, laisse-moi reflechir.
+	Helene : Sâ€™il te plait, ne tue pas le chien...
+CHOIX 1 TUER CARAMEL, 2 COUPER LE DOIGT Dâ€™HELENE
