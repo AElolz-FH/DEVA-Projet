@@ -1,38 +1,36 @@
 23h30
 
-Plus d'une heure s'est pass+AOk-e depuis les faits, et L+AOk-ah reprend peu +AOA- peu ses esprits, malgr+AOk- les recherches non fructueuses, elle d+AOk-cide d'appeler les amies avec lesquelles elle +AOk-tait sortie le soir m+AOo-me.
-+ACI-Bruit d'appel+ACI-
+Plus d'une heure s'est passee depuis les faits, et Leah reprend peu a peu ses esprits, malgres les recherches non fructueuses, elle decide d'appeler les amies avec lesquelles elle etait sortie le soir meme.
+Bruit d'appel
 
 SE SITUE DANS LA CHAMBRE D'EMMA
 Sarah se situe dans la chambre d'Emma alors que celle-ci est partie aux toilettes.
-	Sarah : -EMMA, LE TELEPHONE SONNE +ACE-
-	Emma : -NE REPOND PAS, C'EST SUREMENT MON IDIOT DE PETIT AMI +ACE-
+	Sarah : -EMMA, LE TELEPHONE SONNE
+	Emma : -NE REPOND PAS, C'EST SUREMENT MON IDIOT DE PETIT AMI
 
-CHOIX 1) Sarah d+AOk-cide quand m+AOo-me de r+AOk-pondre, apr+AOg-s tout quelqu'un qui d+AOk-cide d'appeler +AOA- cette heure ci, ce n'est pas anodin.
-CHOIX 2) Sarah ne r+AOk-pond pas et laisse le t+AOk-l+AOk-phone sonner.
+CHOIX 1) Sarah decide quand meme de repondre, apres tout quelqu'un qui decide d'appeler a cette heure ci, ce n'est pas anodin.
+CHOIX 2) Sarah ne repond pas et laisse le telephone sonner.
 
 
 SUITE CHOIX  1 TELEPHONE
-Sarah d+AOk-cide de r+AOk-pondre au t+AOk-l+AOk-phone car un appel +AOA- cette heure-l+AOA-, ce n'est pas anodin.
-+ACoAKg-RESPIRATIONS+ACoAKg-
+Sarah decide de repondre au telephone car un appel a cette heure-la, ce n'est pas anodin.
+	-RESPIRATIONS
 	Sarah : -Allo ?
-	L+AOk-ah : -Sarah ?
+	Leah : -Sarah ?
 	Sarah : -Oui c'est moi.
-	L+AOk-ah : -Super c'est L+AOk-ah, dis j'avais quelque chose +AOA- te demander, c'est possible de parler un petit peu ?
-	Sarah : -Oui vas-y je t'+AOk-coute, de toute fa+AOc-on Emma n'est pas encore revenue.
-	L+AOk-ah : -Tr+AOg-s bien, je vais t'expliquer ce qui m'est arriv+AOk- en rentrant chez moi, tu es d'accord.
+	Leah : -Super c'est Leah, dis j'avais quelque chose a te demander, c'est possible de parler un petit peu ?
+	Sarah : -Oui vas-y je t'ecoute, de toute facon Emma n'est pas encore revenue.
+	Leah : -Tr+AOg-s bien, je vais t'expliquer ce qui m'est arrive en rentrant chez moi, tu es d'accord.
 	Sarah : -Oui, continue ce que tu voulais me dire.
-	L+AOk-ah : -Tu vois quand je vous ai laiss+AOk- ce soir et que je suis rentr+AOk- +AOA- la maison ?
-	Sarah : -Oui c'+AOk-tait encore il y a, +AOA- peine une heure.
-	L+AOk-ah : -H+AOk- bien quelqu'un m'a suivi, un homme v+AOo-tu de noir, il portait un masque chirurgical avec sa capuche relev+AOk-e, je ne sais pas ce qu'il me voulait, mais il +AOk-tait certainement mal intentionn+AOk-.
-	Sarah : -Ok tu es s+APs-re qu'il ne t'a pas suivie ?
-	L+AOk-ah : -Je n'en sais rien, j'+AOk-tais trop d+AOk-boussol+AOk-e par la situation pour m'en rendre compte.
-	Sarah : -Je pense avoir d+AOk-j+AOA- vu ce type, il avait l'air grand avec un manteau +AOA- capuche noir avec des rangers ainsi que son masque ?
-	L+AOk-ah : -Oui c'est +AOc-a, o+APk- tu l+IBk-as vu ?
-	Sarah : -Une amie a d+AOk-j+AOA- eu affaire +AOA- lui, elle a pris en vid+AOk-o sa course poursuite avec. Je te conseille d'appeler imm+AOk-diatement les flics.
-	L+AOk-ah : -Tr+AOg-s bien Sarah, merci +AOA- toi pour les infos, +AOA- plus tard.
+	Leah : -Tu vois quand je vous ai laisse ce soir et que je suis rentre a la maison ?
+	Sarah : -Oui c'etait encore il y a, a peine une heure.
+	Leah : -He bien quelqu'un m'a suivi, un homme vetu de noir, il portait un masque chirurgical avec sa capuche relevee, je ne sais pas ce qu'il me voulait, mais il etait certainement mal intentionne.
+	Sarah : -Ok tu es sure qu'il ne t'a pas suivie ?
+	Leah : -Je n'en sais rien, j'etais trop deboussolee par la situation pour m'en rendre compte.
+	Sarah : -Je pense avoir deja vu ce type, il avait l'air grand avec un manteau a capuche noir avec des rangers ainsi que son masque ?
+	Leah : -Oui c'est ca, ou tu l'as vu ?
+	Sarah : -Une amie a deja eu affaire a lui, elle a pris en video sa course poursuite avec. Je te conseille d'appeler immediatement les flics.
+	Leah : -Tres bien Sarah, merci a toi pour les infos, a plus tard.
 	Sarah : -A plus tard, tu me tiens au courant.
 CHOIX 1) ECOUTER LES CONSEILS DE SARAH ET APPELER LA POLICE IMMEDIATEMENT AFIN D'EVITER TOUTE COMPLICATION.
 CHOIX 2) VOTRE INSTINCT D'ENQUETRICE VOUS POUSSE A INVESTIGUER SEULE SUR CETTE AFFAIRE, VOUS ETES BIEN DECIDEE A EN ELUCIDER LES MYSTERES.
-
-
