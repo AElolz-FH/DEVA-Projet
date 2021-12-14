@@ -1,8 +1,8 @@
-**CHOIX 1 TUER CARAMEL**
-	George tue Caramel et Hélène lui en veut.
-	Hélène : Je ne comprends pas pourquoi tu as fait ce choix !
-	George : Je cherche juste à te protéger mon amour, essaie de me comprendre.
-	Hélène : Fais très attention à tes prochains choix George, il se pourrait notre relation soit à tout jamais perdue.
-	George : Je sais, j’essaie de faire de mon mieux pour préserver tout le monde.
-**GEORGE ENVOIE UNE PREUVE DU CADAVRE DE CARAMEL**
+CHOIX 1 TUER CARAMEL
+	George tue Caramel et Helene lui en veut.
+	Helene : Je ne comprends pas pourquoi tu as fait ce choix !
+	George : Je cherche juste à te proteger mon amour, essaie de me comprendre.
+	Helene : Fais tres attention a tes prochains choix George, il se pourrait notre relation soit a tout jamais perdue.
+	George : Je sais, j’essaie de faire de mon mieux pour preserver tout le monde.
+GEORGE ENVOIE UNE PREUVE DU CADAVRE DE CARAMEL
 BILAN DU CHOIX 1 : CARAMEL EST MORT.
