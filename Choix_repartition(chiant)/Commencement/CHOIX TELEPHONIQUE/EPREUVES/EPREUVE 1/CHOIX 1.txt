@@ -15,6 +15,6 @@
 	George : C’est fait, pouvez-vous me dire quand sera la prochaine epreuve ?
 	
 	Mr.X : Ah oui c’est vrai, j’avais oublie de vous dire, il y a une epreuve par jour, chaque épreuve vous rapporte des points de progression qui vous permettrons de revoir votre fille, lorsque vous arrivez a 5 points, je vous rends votre fille, cette epreuve vous a rapporte un point sur 5, les epreuves a risque vous rapporte moins de points mais vous font avancer moins vite dans votre progression.
-	Mr.X : Je vous rappellerai demain matin pour la prochaine épreuve.
+	Mr.X : Je vous rappellerai demain matin pour la prochaine epreuve.
 BILAN : LEAH VA  BIEN ET HELENE AUSSI
   FIN DU CHOIX 1
