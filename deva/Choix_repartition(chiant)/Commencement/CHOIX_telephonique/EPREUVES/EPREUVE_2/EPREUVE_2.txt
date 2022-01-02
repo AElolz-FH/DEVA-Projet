@@ -1,0 +1,18 @@
+LE LENDEMAIN MATIN
+Mr.X Appelle George
+	Mr.X : Bonjour George, etes-vous pret pour la seconde epreuve ?
+	George : Je vous ecoute Monsieur.
+	Mr.X : Tres bien ,je vois que vous n’avez pas perdu votre esprit jouasse.
+	Mr.X : Je vais commencer par enoncer les regles de l’epreuve.
+	Mr.X : Vous allez devoir choisir entre deux possibilites. Première possibilite, vous allez devoir oter la vie de Caramel votre toutou cheri. Deuxieme possibilite, vous allez devoir couper un doigt a votre femme.
+	George : Vous etes serieux espece de timbre ?
+	Mr.X : Tres serieux, vous avez 10 minutes pour faire un choix.
+	George : Tres bien je reviens.
+George part voir Hélène pour en discuter
+	George : Cherie, on a un problème.
+	Helene : Qu’est ce qu’il y a mon amour ?
+	George : Ce tare veut que je decide entre te couper un doigt et tuer Caramel...
+	Helene : Coupe-moi le doigt George ! C’est inconcevable de tuer Caramel, je n’y pense pas une seule seconde !
+	George : Je vais faire un choix, laisse-moi reflechir.
+	Helene : S’il te plait, ne tue pas le chien...
+CHOIX 1 TUER CARAMEL, 2 COUPER LE DOIGT D’HELENE

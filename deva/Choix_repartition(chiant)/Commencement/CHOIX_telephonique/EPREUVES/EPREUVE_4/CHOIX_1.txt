@@ -1,0 +1,8 @@
+  CHOIX 1
+  GEORGE SE REND AU PARC AFIN D’ENLEVER UN ENFANT
+  Il scrute les alentours jusqu’a trouver une proie
+  Il repere un petit enfant a peine age de 2 ans et se rapproche de lui
+  Il enleve l’enfant malgre les cris de sa mere
+  Plus tard en appel avec Mr.X
+	Mr.X : Je vois que vous avez recupere l’enfant, tres bien, il ne vous reste plus qu’a me le ramener.
+GEORGE RAMENE L’ENFANT 

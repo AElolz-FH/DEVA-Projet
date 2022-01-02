@@ -1,0 +1,107 @@
+CHOIX 2) VOTRE INSTINCT D'ENQUETRICE VOUS POUSSE A INVESTIGUER SEULE SUR CETTE AFFAIRE, VOUS ETES BIEN DECIDEE A EN ELUCIDER LES MYSTERES.
+Pour ne pas etre derangee Leah ferme sa porte a cle.
+Elle met son casque et met la musique a fond, ca l'aide à se detendre et a rester concentree.
+00H00
+VOUS ETES LEAH ET VOUS AVEZ BIEN ENTAMME LES RECHERCHES
+VOUS CONTINUEZ SUR VOTRE LANCEE
+VOUS SENTEZ UN SOUFFLE CHAUD DANS VOTRE COU
+VOUS VOUS RETOURNEZ RAPIDEMENT CAR VOUS SENTEZ QUE QUELQUE CHOSE CLOCHE
+VOUS VOYEZ VOTRE HARCELEUR, PUIS PLUS RIEN
+
+LE LENDEMAIN :
+VOUS VOUS REVEILLEZ ATTACHEE A UNE CHAISE AVEC UN BANDEAU SUR LES YEUX, UN SCOTCH COLLE SUR LA BOUCHE
+L'homme voit que la jeune femme est reveillee et retire son bandeau ainsi que le scotch.
+	Leah : -Qu'est ce que vous me voulez ? Qui etes-vous ?
+	Mr.X : -Je t'en dirais un peu plus sur ce que j'attend de toi bientot, en attendant faisons connaissance.
+	Leah : -Mais c'est ridicule, pourquoi vous portez un masque et vous modifiez votre voix, vous avez peur de quoi espece d'imbecile.
+	Mr.X : -J'ai laisse un mot dans ta chambre qui permettra a tes parents de me contacter, en revanche s'ils appelent la police je le saurai et je te tuerai dans le cas ou les flics sont au courant, j'ai mis leur ligne sur ecoute. Toutes ces informations resident sur le mot, il va falloir que tes parents acceptent de jouer avec moi.
+	Leah : -Tres bien alors, si vous voulez faire connaissance pourquoi pas commencer par m'en dire plus sur ce que vous me voulez.
+	Mr.X : -Je veux simplement que l'on joue avec moi, c'est ce que font tous les petits garçons non ?
+	Leah : -Arretez un peu, vous n'avez plus 5 ans !
+	**LE TELEPHONE SONNE**
+	Mr.X : -Tiens, ce doit etre tes parents, ils ont fait vite, il n'est que 8h00.
+	MR.X Décroche le telephone.
+	Mr.X : -Allo ?
+	Homme inconnu : -Oui c'est Clement votre responsable EDF, vous n'avez pas paye les factures depuis 3 mois, il faudrait penser a nous payer ou alors nous allons etre oblige de vous couper votre source d'electricite.
+	MR.X Raccroche le telephone.
+	Leah : -C'etait qui, je veux savoir !
+	Mr.X : -Clement mon responsable EDF.
+	Leah : -Vous etes serieux ?
+	Mr.X : -Tres.
+SE METTRE DANS LA VUE DE GEORGE
+	George : -Helene je suis oblige d'appeler ce type, tu sais tres bien ce qu'il va faire a notre fille si je ne le fais pas, il a dit qu'il y avait un temps limite et qu'il nous tracait !
+	Helene : -Je sais mais essayons de raisonner d'abord, trouvons comment il nous trace et dejouons ses plans.
+	George : -Mais enfin Helene, on a pas le temps et nous ne sommes pas dans un film, ce n'est pas possible de faire ça, je vais appeler et des maintenant !
+	Helene : -Tres bien, mais tu prendras seul la responsabilite de jouer avec ce tare.
+George appelle Mr.X
+	George: -Allo ?
+	Mr.X : -Oui c'est Mr.X.
+	George : -Qui etes-vous ! Que voulez-vous a ma fille ! Je vous en supplie liberez la.
+	Mr.X : -Calmez-vous, comme explique dans le mot que je vous ai donne, vous allez devoir jouer avec moi.
+Premiere regle : Vous ne devez en aucun cas faire appel à quelqu'un d'exterieur a vous et votre femme, personne a part vous deux, que ce soit des amis ou la police, sinon je mettrais fin au jeu, vous savez ce que cela signifie ?
+	George : -Non, expliquez-moi.
+	Mr.X : -Je bute votre fille, ça me degoute les gens qui ne respectent pas mes regles.
+	George : -C'est tres clair, je ferai tout ce qui est en mon pouvoir pour revoir ma fille saine et sauve.
+	Mr.X : Tres bien, je vois que nous partons sur de bonnes bases. Je vous recontacterai demain pour le commencement des jeux, ne vous inquietez pas, votre fille est entre de bonnes mains.
+FIN DE L'APPEL TELEPHONIQUE
+	Mr.X part au travail (chez les Carter) et revient a midi pour donner a manger a Leah.
+9h00 Mr.X arrive chez les Carters
+	David : Bonjour Mme Carter, vous allez bien ?
+	Helene : Je suis un petit peu malade et patraque, mais ne vous inquietez pas, je vais bien.
+	David : Tout roule alors, comment est-ce que je peux vous aider en cette belle journee ?
+	Helene : He bien, il serait tres aimable de votre part de couper les arbustes qui dépassent et empietent sur la terrasse.
+	David : Je vais m’en occuper, mais d’abord, est ce que je peux voir Mr.Carter ?
+	Helene : Oui, il est dans la cuisine, il prend son petit dejeuner.
+	9h02 Mr.X ou David rentre dans la cuisine des Carters
+	George: Tiens, David, j’avais justement besoin de vous pour couper les arbustes de la devanture, il faut aussi, si vous avez le temps couper les plantes grimpantes sur les murs de la maison.
+	
+	David : Il n’y a pas de probleme, je vais faire tout ca, en revanche je dois vous dire que votre femme n’a pas l’air dans son etat normal.
+	George : Helene ? Non, je suis sur qu’elle va bien, c’est encore un de ses episodes de melancolie.
+	David : Tres bien, je vous laisse regler ca, faites attention quand meme.
+	David travaille comme un acharné jusqu’à 12h00
+David rentre pour donner à manger à Leah
+	Mr.X : Salut Leah, j’ai ete voir tes parents aujourd’hui, ils sont très aimables.
+	Leah: Comment ça, qu’est-ce que vous leur avez fait ?
+	Mr.X: Rien, rassure-toi mais je travaille pour eux afin de m’assurer qu’ils ne font pas trop de betises, pour mieux les surveiller en quelque sorte, tu sais, les gens sont des imbeciles parfois et contournent les regles, il vaut mieux alors les rappeler à l’ordre.
+	Leah: Ok, alors quand est ce qu’on commence les jeux avec mes parents pour que vous me liberiez ?
+	Mr.X : Tu es bien pressee, ne t’inquietes pas, je vais commencer à jouer avec vous dès ce soir à 20h00.
+	Leah : Donnez-moi à manger, j’ai super faim…
+	Mr.X: Tu crois que tu es en mesure de me donner des ordres, si je le fais c’est uniquement parce que je veux que  tu restes en forme, afin de survivre aux jeux.
+	Mr.X donne a manger a Leah et termine sa journee chez les Carters.
+	Helene : David, j’ai besoin de vous pour une petite chose.
+	David : Qu’est ce qu’il y a Helene ?
+	Helene : Je vous trouve tres seduisant, et je me disais qu’un peu de chaleur humaine ne nous ferait pas de mal…
+	David : Mais vous avez pense a George ?
+	Helene : Oui, mais il a l’air completement desinteresse en ce moment, alors ça vous dit ?
+	David : Tres bien, mais je ne dois pas rester longtemps.
+	 
+
+Helene trompe George avec David
+Ils se rhabillent et David part le plus rapidement possible
+	Helene : à la prochaine, j’espere que ça se passera aussi bien !
+	David : Salut, je dois y aller, j’ai des trucs a faire !
+20h30 Mr.X rentre dans son entrepot
+	Mr.X : Alors Leah, nous allons pouvoir commencer à jouer… J’ai hate ! 
+	Leah : Moi aussi, que je sorte de ce trou a rat.
+	Mr.X : Je vais tout de suite appeler tes parents pour l’initiation.
+	Mr.X prend le telephone et compose le numero des Carters.**
+Une voix masculine repond
+	George : Allo ?
+	Mr.X : Oui, c’est Mr.X, appelez votre femme, nous allons commencer l’initiation à la suite de jeux.
+	George : Tout de suite.
+George appelle sa femme
+	Helene : Je suis prete a commencer.
+	Mr.X : Tres bien alors debutons.
+	Mr.X : Vous allez devoir choisir entre deux proposition à chaque fois, elles impliqueront Leah et Helene.
+	Mr.X : Jouons au premier jeu : George vous allez devoir choisir entre voler le plus de choses de valeurs dans un supermarche en 3 minutes puis ressortir, ce qui vous fera gagner une progression de 1/5 sur la progression, arrive à 5/5 vous reverrez votre fille.
+	Mr.X: Pour le deuxieme choix je vous propose de slicer votre femme (quelques coupures), ce qui vous fera progresser de 1/5.
+	Mr.X : Il faut savoir une chose, si vous ratez les epreuves, vous devrez choisir entre faire du mal à votre fille et faire du mal a votre femme, ce qui reviendra au second choix, dosez bien pour ne tuer aucune d’entre elles. 
+	Mr.X : Vous commencerez demain matin, j’ai depose une oreillette dans votre boite aux lettres pour vous indiquer le temps, afin que vous ne soyez pas hors limite, dans ce cas-la vous aurez perdu l’epreuve n°1.
+
+
+Mr.X raccroche le telephone et attend le lendemain pour rappeler
+8h00 Mr.X Appelle les Carters
+George decroche le telephone
+	Mr.X : Alors vous avez fait votre choix ?
+Se mettre dans la vue de George
+	George : Oui, je vais choisir le choix : 1 OU 2 

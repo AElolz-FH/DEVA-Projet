@@ -1,0 +1,10 @@
+Choix 2
+	Mr.X : Vous avez fait le deuxieme choix, tres bien, mutilez Helene envoyez-moi une preuve sur le numero qui vous a appele et je vous accorderai 2 points de progression.
+  George mutile sa femme
+	Helene : Aaargh ! Ça fait un mal de chien.
+	George : Je sais Helene mais je le fais pour revoir notre fille plus rapidement, je suis vraiment désole.
+  George envoie la preuve de la mutilation d’Helene
+	Mr.X : Tres bien George, vous avez rempli votre part du contrat, vous avez progressé de 2/5, a demain pour la suite des epreuves.
+  Mr.X raccroche le telephone
+BILAN DU CHOIX 2 : LEAH A TOUS SES PV ET HELENE EN PERD 1.
+FIN DU CHOIX 2

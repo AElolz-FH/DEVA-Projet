@@ -1,0 +1,21 @@
+Sarah decide de repondre au telephone car un appel a cette heure-la, ce n'est pas anodin.
+	-RESPIRATIONS
+	Sarah : -Allo ?
+	Leah : -Sarah ?
+	Sarah : -Oui c'est moi.
+	Leah : -Super c'est Leah, dis j'avais quelque chose a te demander, c'est possible de parler un petit peu ?
+	Sarah : -Oui vas-y je t'ecoute, de toute facon Emma n'est pas encore revenue.
+	Leah : -Tres bien, je vais t'expliquer ce qui m'est arrive en rentrant chez moi, tu es d'accord.
+	Sarah : -Oui, continue ce que tu voulais me dire.
+	Leah : -Tu vois quand je vous ai laisse ce soir et que je suis rentre a la maison ?
+	Sarah : -Oui c'etait encore il y a, a peine une heure.
+	Leah : -He bien quelqu'un m'a suivi, un homme vetu de noir, il portait un masque chirurgical avec sa capuche relevee, je ne sais pas ce qu'il me voulait, mais il etait certainement mal intentionne.
+	Sarah : -Ok tu es sure qu'il ne t'a pas suivie ?
+	Leah : -Je n'en sais rien, j'etais trop deboussolee par la situation pour m'en rendre compte.
+	Sarah : -Je pense avoir deja vu ce type, il avait l'air grand avec un manteau a capuche noir avec des rangers ainsi que son masque ?
+	Leah : -Oui c'est ca, ou tu l'as vu ?
+	Sarah : -Une amie a deja eu affaire a lui, elle a pris en video sa course poursuite avec. Je te conseille d'appeler immediatement les flics.
+	Leah : -Tres bien Sarah, merci a toi pour les infos, a plus tard.
+	Sarah : -A plus tard, tu me tiens au courant.
+CHOIX 1) ECOUTER LES CONSEILS DE SARAH ET APPELER LA POLICE IMMEDIATEMENT AFIN D'EVITER TOUTE COMPLICATION.
+CHOIX 2) VOTRE INSTINCT D'ENQUETRICE VOUS POUSSE A INVESTIGUER SEULE SUR CETTE AFFAIRE, VOUS ETES BIEN DECIDEE A EN ELUCIDER LES MYSTERES.

@@ -1,0 +1,12 @@
+GEORGE ENVOIE LA PREUVE
+	Mr.X : Tres bien George, je vois que vous n’avez pas perdu votre objectif, vous avez passe la deuxieme epreuve. Je vous recontacterai pour la prochaine.
+Mr.X raccroche le téléphone
+Mr.X a une petite conversation avec Léah
+	Mr.X : ça se passe plutot bien pour l’instant Leah, tu devrais être heureuse, tu es encore en vie et ta mere n’est que blessee pour l’instant.
+	Leah : Comment ça pour l’instant ! Que voulez-vous insinuer ?!
+	Mr.X : Tais-toi ! Tu sais tres bien ce que cela signifie !
+	Leah : Vous n’allez quand même pas tuer ma mere ?!
+	Mr.X : Pas de mon plein gres non, mais c’est ton pere qui pourrait y etre amene.
+	Mr.X : Maintenant, fin de la discussion, tu sembles trop excitee pour avoir une conversation decente avec toi.
+Mr.X s’en va et laisse Leah seule
+Léah : Et si ma mere n’allait pas bien, cet enfoire est en train de faire souffrir ma famille et prend ça pour un jeu, il faut que je trouve un moyen de venir en aide à ma famille, mais comment faire ? Rahhh, je suis impuissante…

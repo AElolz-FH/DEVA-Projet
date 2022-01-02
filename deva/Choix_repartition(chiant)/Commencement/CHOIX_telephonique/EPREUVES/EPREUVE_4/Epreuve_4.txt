@@ -1,0 +1,15 @@
+Le lendemain matin Mr.X appelle George
+
+Mr.X : Bonjour George etes-vous pret pour la prochaine epreuve ?
+George : Bien sur dites moi ce que vous voulez de moi.
+Mr.X : Pas si vite George, vous etes bien presse, ne voulez-vous pas discuter un peu ?
+George : Non, je prefere bien plus me taire et revoir ma famille.
+Mr.X : Tres bien, je vois que vous n'avez pas perdu votre objectif.
+George : Allez-y donnez-moi les consignes.
+Mr.X : D'accord, dans cette epreuve vous allez devoir choisir entre tuer un pere de famille et donc priver son enfant de pere ou alors enlever un enfant.
+Mr.X : Vous en conviendrez, dans les deux cas, vous privez un enfant de son pere, je me sens si bien d'avoir eu cette idee.
+George : Vous etes un monstre mais je ferai tout pour revoir mon enfant.
+George : Laissez-moi quelques temps afin de reflechir a votre proposition.
+
+Choix 1 : Tuer un pere de famille
+Choix 2 : Enlever un enfant

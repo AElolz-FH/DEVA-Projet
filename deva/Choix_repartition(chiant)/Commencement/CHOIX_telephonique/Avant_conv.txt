@@ -1,0 +1,12 @@
+23h30
+
+Plus d'une heure s'est passee depuis les faits, et Leah reprend peu a peu ses esprits, malgres les recherches non fructueuses, elle decide d'appeler les amies avec lesquelles elle etait sortie le soir meme.
+Bruit d'appel
+
+SE SITUE DANS LA CHAMBRE D'EMMA
+Sarah se situe dans la chambre d'Emma alors que celle-ci est partie aux toilettes.
+	Sarah : -EMMA, LE TELEPHONE SONNE
+	Emma : -NE REPOND PAS, C'EST SUREMENT MON IDIOT DE PETIT AMI
+
+CHOIX 1) Sarah decide quand meme de repondre, apres tout quelqu'un qui decide d'appeler a cette heure ci, ce n'est pas anodin.
+CHOIX 2) Sarah ne repond pas et laisse le telephone sonner.

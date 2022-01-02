@@ -1,0 +1,33 @@
+CHOIX 2
+	George : Helene ma chere, je dois te dire de partir, cet enfoire me fait choisir entre tuer un type ou de divorcer avec toi, tu me connais, je suis incapable de faire ça…
+	Helene : Je comprends George, on se retrouve apres les epreuves.
+Helene prepare ses affaires et part de la maison.
+20 minutes plus tard, devant l’hotel.
+	David : Salut Helene, comment ça se fait que tu es à l’hotel ?
+	Helene : Rien, ce n’est pas grave, je me suis un peu brouille avec George.
+David assomme Helene et la met dans son coffre.
+PLUS TARD DANS LE HANGAR
+Helene se reveille.
+	Helene : Ou je suis, David ?
+	David : Oui c’est moi, Mr.X mais nous ne sommes pas seuls, regarde il y a ta fille à ton dos.
+	Helene : Leah ! Tu vas bien ? Il t’a bien traite j’espere !
+	Leah : Ne t’inquiete pas pour moi maman, il ne m’a rien fait.
+		DEBUT DE LA REMARQUE
+	Leah : Mais pourquoi tu as le doigt coupe ? C’est encore Mr.X qui vous a oblige à faire ça ?
+	Helene : Oui, mais ne t’inquiete pas pour mon cas, on va s’en sortir toutes les deux.
+	Mr.X : C’est bientot fini les retrouvailles mere-fille ? ca commence à devenir chiant la…
+		FIN DE LA REMARQUE 
+	Mr.X : Je vais appeler George pour l’epreuve finale.
+MR.X APPELLE GEORGE
+	Mr.X : Bonjour George, je suis en compagnie de votre petite famille pour la derniere epreuve.
+	George : Comment ça ma famille ?
+	Mr.X : He bien, vous savez, votre fille ainsi que votre femme, après tout vous lui avez dit de partir…
+	George : Mais comment ça, relachez-la, vous ne trouvez pas que ça fait beaucoup la non ?
+	Mr.X : Mais c’est impossible, j’ai besoin des deux pour l’epreuve finale qui va tres vite arriver.
+	George : Je vous ecoute.
+	Mr.X : Vous allez devoir choisir entre tuer votre femme ou tuer votre fille.
+	George : Vous vous rendez bien compte que ce choix est impossible a faire pour moi ?
+	Mr.X : C’est bien pour ça que c’est d’autant plus excitant de mon cote.
+	Mr.X : Je vous laisse 5 min pour reflechir, auquel cas je tuerais les deux.
+GEORGE S’ELOIGNE UN INSTANT ET REFLECHIT
+	CHOIX 1 TUER LEAH, CHOIX 2 TUER HELENE
